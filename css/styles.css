@@ -18,6 +18,14 @@ h6 {
 	font-weight: 700;
 }
 
+nav {
+	height: 8vh;
+}
+
+.carousel-custom {
+	height: 80vh;
+}
+
 .h1,
 .h2,
 .h3,
@@ -26,4 +34,16 @@ h6 {
 .h6 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 700;
+}
+
+.cart {
+	font-size: 3rem;
+}
+
+.rounded-custom {
+	border-radius: 2rem;
+}
+
+.mh-custom {
+	min-height: 3rem;
 }
